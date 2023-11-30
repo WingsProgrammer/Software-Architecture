@@ -101,5 +101,3 @@ ADRs should be created for every architecturally significant decision that affec
 A collection of ADRs creates a decision log, which provides detailed implementation and design information, as well as the project context. This information can be used by the team to make informed decisions in the future and to understand the reasoning behind past decisions.
 
 ![ADRs—Explicit Decisions For Better And Faster Software - QE Unit](https://qeunit.com/wp-content/uploads/2022/09/qe-unit-architecture-decision-record-adr-move-forward-featured.jpg)
-
-
