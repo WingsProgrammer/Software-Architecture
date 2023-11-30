@@ -71,8 +71,7 @@ Services in SOA are self-contained and represent repeatable business activities 
 ![What is service-oriented architecture? | InfoWorld](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnF95oWzeXOYkBqDaYlid5dmlJAMvPdSBykql15c76wtNiWWpd&amp;s)
 
 
-## Microservices Architecture
-
+## Microservices Architecture[
 Microservices architecture is an approach to software development that structures an application as a collection of small, loosely coupled services, which communicate with each other using lightweight protocols. Each service is developed, deployed, and maintained independently with its own clear interfaces and distinct responsibilities. This allows teams to work independently, leading to faster development and deployment, as well as the ability to use pre-built services more easily. 
 
 Microservices architecture is often used to build flexible, scalable, and cloud-native applications. It enables continuous delivery and continuous integration and is characterized by its business-driven development approach, fine-grained interfaces, and the ability to evolve services with limited restrictions from users.
